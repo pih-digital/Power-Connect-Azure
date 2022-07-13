@@ -1,6 +1,6 @@
 {
-    "name": "pih_hr",
-    "short_name": "pih_hr",
+    "name": "Power Connect",
+    "short_name": "Power Connect",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
